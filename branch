@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a seperate line of commits which you can work within without affecting other branches either on the main line or other people's workspaces. It allows you to make commits that are seperate of the main line, finish your work and test it before merging back into a master branch,
